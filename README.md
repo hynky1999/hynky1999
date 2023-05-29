@@ -22,5 +22,9 @@
 ## C#
 - [Washing Manager](https://github.com/hynky1999/WashingManager) - Contains code for Manager of Washing Machines. ASP.NET CORE + Blazor Server + EF.CORE + Entity Framework
 
+## C++
+- [Archivator](https://github.com/hynky1999/Archivator) - utility for archiving folder/files, with ability to query the archives using fairly extend language.
+
 ## Haskell
 - [Pascal Parser](https://github.com/hynky1999/LidlParser) - Simple parser for subsection of Pascal
+
