@@ -4,7 +4,7 @@
 
 - [CZE-NEC](https://github.com/hynky1999/Czech-News-Classification-dataset) - Conains the download scripts for the biggest and most complete News Dataset with over 1.6M entities. Contains aritcles from 6 Czech News sites from 2000-2022
 - [CZE-NEC Exploration](https://gist.github.com/hynky1999) - Contains a jupyter notebok showing the strucutre of the CZE-NEC
-- [CZE_NEC Training](https://github.com/hynky1999/Bakalarka-code) - Among other contains training code on CZE-NEC, mostly various transfomers learning methods + LR with TFIDF.
+- [CZE-NEC Training](https://github.com/hynky1999/Bakalarka-code) - Among other contains training code on CZE-NEC, mostly various transfomers learning methods + LR with TFIDF.
 - [Transformer from scratch](https://github.com/hynky1999/Statistical-learning-class) - Contains my reimplementation of Transformer architecture among other. 
 - [Entailment Solution](https://github.com/hynky1999/Entailment-seq-2-seq) - Contains training code for entailment problem using RNNs and Transformer and their comparisson.
 - Straka classes(Private) - Contains my solutions for both DeepLearning and ML Classes -> Over 25 problems solutions.
