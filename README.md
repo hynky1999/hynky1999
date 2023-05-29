@@ -12,7 +12,6 @@
 ## Python
 - [Github events api](https://github.com/hynky1999/datamole) - Contains documented flask api, which exposes github events. The ingestion is done by subscribing to to gh-api and then sending data using Kafka to the API.
 - [CmonCrawl](https://github.com/hynky1999/CmonCrawl) - Contains utility for interaction with CommonCrawl
-- 
 
 ## Typescript
 - [Compound Scrapper](https://github.com/hynky1999/Compound-Scrapping) - Contains code for various pricing details in Compound ecosystem scraped using GraphQL from TheGraph.
